@@ -1,0 +1,2 @@
+The terms with the highest document frequency seem to be stopwords. the terms with the lowest frequency are numbers. 
+the discrepency between the groups is obvious, one is a group of words that appear in almost every sentnce, and the other are random nubmers that should have probably been removed. 
